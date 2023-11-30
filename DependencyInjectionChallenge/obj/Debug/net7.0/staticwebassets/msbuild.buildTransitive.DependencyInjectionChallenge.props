@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DependencyInjectionChallenge.props" />
+</Project>
