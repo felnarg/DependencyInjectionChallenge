@@ -15,6 +15,7 @@ namespace DependencyInjectionChallenge
         public void Dispose()
         {
             Console.WriteLine($"{Name} - Disposed");
+
         }
     }
 }
