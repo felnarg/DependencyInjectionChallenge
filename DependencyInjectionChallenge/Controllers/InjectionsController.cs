@@ -24,21 +24,21 @@ namespace DependencyInjectionChallenge.Controllers
         public IActionResult TransientStatus()
         {
             string message = _transientService!.Get();
-            return Ok(message);
+            return Ok($"{message}\n{Create.Message}");
         }
 
         [HttpGet("singleton")]
         public IActionResult SingletonStatus()
         {
             string message = _singletonService!.Get();
-            return Ok(message);
+            return Ok($"{message}\n{Create.Message}");
         }
 
         [HttpGet("scoped")]
         public IActionResult ScopedStatus()
         {
             string message = _scopedService!.Get();
-            return Ok(message);
+            return Ok($"{message}\n{Create.Message}");
         }
     }
 }
