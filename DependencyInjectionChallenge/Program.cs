@@ -20,7 +20,7 @@ builder.Services.AddScoped<IScopedService, ScopedService>();
 builder.Services.AddSingleton<ISingletonService, SingletonService>();
 builder.Services.AddTransient<ITransientService, TransientService>();
 
-//serviceProvider.Dispose();
+serviceProvider.Dispose();
 
 var app = builder.Build();
 
