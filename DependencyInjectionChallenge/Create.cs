@@ -1,4 +1,5 @@
-﻿using DependencyInjectionChallenge.Interfaces;
+﻿using System.Text;
+using DependencyInjectionChallenge.Interfaces;
 
 namespace DependencyInjectionChallenge
 {
@@ -6,6 +7,8 @@ namespace DependencyInjectionChallenge
     {
         private Guid Id;
         private string? Name;
+        StringBuilder sb = new StringBuilder();
+        public static string? Message { get; set; }
 
         public Create(string className)
         {
@@ -14,7 +17,8 @@ namespace DependencyInjectionChallenge
         }
         public void Dispose()
         {
-            Console.WriteLine($"{Name} - Disposed");
+            //Console.WriteLine($"{Name} - Disposed");
+            Message = sb.Append($"{Id} {Name} - Disposed").ToString();
         }
     }
 }

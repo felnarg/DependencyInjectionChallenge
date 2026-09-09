@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mi unidad\\Felipe opitech\\capacitación c#\\primeros pasos\\RetoChatGPT\\DependencyInjectionChallenge\\DependencyInjectionChallenge\\DependencyInjectionChallenge.csproj",
+      "projectUniqueName": "G:\\Mi unidad\\Felipe opitech\\capacitación c#\\primeros pasos\\DependencyInjectionChallenge\\DependencyInjectionChallenge\\DependencyInjectionChallenge.csproj",
       "projectName": "DependencyInjectionChallenge",
-      "projectPath": "G:\\Mi unidad\\Felipe opitech\\capacitación c#\\primeros pasos\\RetoChatGPT\\DependencyInjectionChallenge\\DependencyInjectionChallenge\\DependencyInjectionChallenge.csproj",
+      "projectPath": "G:\\Mi unidad\\Felipe opitech\\capacitación c#\\primeros pasos\\DependencyInjectionChallenge\\DependencyInjectionChallenge\\DependencyInjectionChallenge.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "G:\\Mi unidad\\Felipe opitech\\capacitación c#\\primeros pasos\\RetoChatGPT\\DependencyInjectionChallenge\\DependencyInjectionChallenge\\obj\\",
+      "outputPath": "G:\\Mi unidad\\Felipe opitech\\capacitación c#\\primeros pasos\\DependencyInjectionChallenge\\DependencyInjectionChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

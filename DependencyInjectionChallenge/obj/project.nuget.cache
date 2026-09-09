@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nGfv5iuHRc5WYu/Erxc5bZJJAVtTOLkFHtXoxpEU2Jl+bsUdksWab1bOyJupEuPkk5avx9g5AKpIMo2eZmu6A==",
+  "dgSpecHash": "aYeWRNnaqmLPM85DOm8rztmO/l9xtlLhFqbTmZpmNM9y/FQYgFiEy9KoW5Q1faJqZc4ik3uUMDph+qKOvbZhlg==",
   "success": true,
-  "projectFilePath": "G:\\Mi unidad\\Felipe opitech\\capacitación c#\\primeros pasos\\RetoChatGPT\\DependencyInjectionChallenge\\DependencyInjectionChallenge\\DependencyInjectionChallenge.csproj",
+  "projectFilePath": "G:\\Mi unidad\\Felipe opitech\\capacitación c#\\primeros pasos\\DependencyInjectionChallenge\\DependencyInjectionChallenge\\DependencyInjectionChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
